@@ -55,6 +55,7 @@ table {
 
 /* ---------- This is the beginning of my 201 Contact Web Page Project ------------ */
 
+
 html, body {
   height: 100%;
   width: 100%;
@@ -94,7 +95,9 @@ h1 {
 	font-family: owners, sans-serif;
 	width: 100%;
 	font-size: 2em;
+	letter-spacing: .05em;
     margin: 0px auto 10px auto;
+	padding: 2%;
     color: #fff;
 }
 
@@ -112,6 +115,7 @@ p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
 	font-family: owners, sans-serif;
 	font-size: 1.2em;
+	letter-spacing: .075em;
     line-height: 1.6;
     color: #fff;
 }
