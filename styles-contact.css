@@ -95,7 +95,7 @@ h1 {
 	font-family: owners, sans-serif;
 	width: 100%;
 	font-size: 2em;
-	letter-spacing: .05em;
+	letter-spacing: .035em;
     margin: 0px auto 10px auto;
 	padding: 2%;
     color: #fff;
@@ -115,7 +115,7 @@ p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
 	font-family: owners, sans-serif;
 	font-size: 1.2em;
-	letter-spacing: .075em;
+	letter-spacing: .05em;
     line-height: 1.6;
     color: #fff;
 }
@@ -130,20 +130,21 @@ nav{
 }
 nav li{
 	display: inline;
+	padding: .09em;
 
 }
 
 nava{
 	display: inline-block;
-	padding: 10px
+	padding: 10px;
 
 }
 a:link, a:visited {
-	background-color: rgba(238, 238, 238, 0.492);
+	background-color: rgba(147, 147, 147, 0.492);
 	color: rgb(255, 255, 255);
-	padding: 10px 20px;
+	padding: 10px 15px;
 	text-align: center;
-
+	letter-spacing: .075em;
 	text-decoration: none;
 	display: inline-block;
   }
